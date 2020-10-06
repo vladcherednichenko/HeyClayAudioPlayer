@@ -1,0 +1,1346 @@
+Rendiamo meraviglioso
+Sei pronto a renderlo divertente(s)
+Siete pronti a rendelo divertente(p)
+Sembra che avrai presto (s)
+Sembra che avrete presto (p)
+Facciamo
+iniziamo a modellare
+Modelliamo
+Creiamo
+Pronti, partenza, via! Facciamo
+Mostrami il tuo sorriso! Modella il tuo capolavoro (s)
+Mostrateci il vostro sorriso! Modellate il vostro capolavoro (p)
+Riscalda le tue mani ed inizia! Faremo la figura che hai scelto. (s)
+Riscaldate le vostre mani! Faremo la figura che avete scelto. (p)
+Inizia a modellare (s)
+Iniziate a modellare (p)
+Faremo il miglior
+Prepara:
+Prendi:
+Avrai bisogno di (s) Avrete bisogno di(p):
+Prendiamo:
+Useremo l'argilla di:
+Per favore, fai
+Per prima cosa faremo
+Prendi un pezzo di:
+e
+Arrotola
+Facciamo
+Stiamo per fare
+Adesso stiamo per fare
+Adesso abbiamo bisogno di
+Adesso facciamo
+Urrà!
+Congratulazioni!
+Ora
+Bel lavoro!
+Lavoro fantastico!
+Ben fatto!
+Super! Continua!
+Ce l'hai fatta! (s)
+Ce l'avete fatta! (p)
+Adesso fai
+E' il momento di fare
+Modella
+Successivo
+Facciamolo
+E' il momento di modellare
+Modelliamo
+Congratulazioni! Adesso il tuo (sm)
+Congratulazioni! Adesso il vostro (pm)
+Congratulazioni! Adesso la tua (sf)
+Congratulazioni! Adesso la vostra (pf)
+Ben fatto! Il tuo (sm)
+Ben fatto! Il vostro (pm)
+Ben fatto! La tua (sf)
+Ben fatto! Le vostre (pf)
+Grande! Hai ancora un altro (s)
+Grandi! Ne avete ancora un altro (p)
+Bel lavoro! Tutti ameranno il tuo (sm)
+Bel lavoro! Tutti ameranno il vostro (pm)
+Bel lavoro! Tutti ameranno la tua (sf)
+Bel lavoro! Tutti ameranno le vostre (pf)
+Wow! Il tuo (sm)
+Wow! Il vostro (pm)
+Wow! La tua (sf)
+Wow! Le vostre  (fp)
+Grande! La tua famiglia amerà il tuo (sm)
+Grandi! La vostra famiglia amerà il vostro (pm)
+Grande! La tua famiglia amerà laa tua (sf)
+Grandi! La vostra famiglia amerà la vostra (pf)
+Figo! Non era così difficile. Adesso il tuo (sm)
+Figo! Non era così difficile. Adesso il vostro (pm)
+Figo! Non era così difficile. Adesso la tua (sf)
+Figo! Non era così difficile. Adesso la vostra (pf)
+Quando sei pronto per fare il prossimo passo, premi il pulsante a triangolo sulla destra (sm)
+Quando siete pronti per fare il prossimo passo, premete il pulsante a triangolo sulla destra (pm)
+Quando sei pronta per fare il prossimo passo, premi il pulsante a triangolo sulla destra (sf)
+Quando siete pronte per fare il prossimo passo, premete il pulsante a triangolo sulla destra (pf)
+Sei pronto? Premi il triangolo sulla destra! (sm)
+Siete pronti? Premete il triangolo sulla destra! (pm)
+Sei pronta? Premi il triangolo sulla destra! (sf)
+Siete pronte? Premete il triangolo sulla destra! (pf)
+Devi essere orgoglioso di te stesso! Continua! (sm)
+Dovete essere orgogliosi di voi stessi! Continuate! (pm)
+Devi essere orgoglios di te stessa! Continua! (sf)
+Dovete essere orgogliose di voi stesse! Continuate! (pf)
+Fatto? Premi il triangolo sulla destra! (s)
+Fatto? Premete il triangolo sulla destra! (p)
+Se hai finito, fai il prossimo passo. (s)
+Se avete finito, fate il prossimo passo. (p)
+Credo che farai qualcosa di grande! (s)
+Credo che farete qualcosa di grande! (p)
+E' un vero piacere lavorare con un vero specialista! (sm)
+E' un vero piacere lavorare con una vera specialista! (sf)
+Se vuoi cambiare il colore di una parte, non esitare nel farlo! (s)
+Se volete cambiare il colore di una parte, non esitate nel farlo (p)
+Se vuoi aggiungere un cappello o dei baffi alla tua figura, sarà fantastica! (s)
+Se volete aggiungere un cappello o dei baffi alla vostra figura, sarà fantastica! (p)
+Se vuoi aggiungere qualcosa alla tua figura o cambiare il colore degli occhi, fallo! Gli esperimenti sono divertenti! (s)
+Se volete aggiungere qualcosa alla vostra figura o cambiare il colore degli occhi, fatelo! Gli esperimenti sono divertenti! (p)
+Se alla fine vuoi cambiare la posa o l'emozione della figura, fallo. Sei il creatore! (sm)
+Se alla fine volete cambiare la posa o l'emozione della figura, fatelo. Siete i creatori! (pm)
+Se alla fine vuoi cambiare la posa o l'emozione della figura, fallo. Sei la creatrice! (sf)
+Se alla fine volete cambiare la posa o l'emozione della figura, fatelo. Siete le creatrici1 (pf)
+Posso vedere dalle tue mosse che sarà qualcosa di grandioso! (s)
+Posso vedere dalle vostre mosse che sarò qualcosa di grandioso! (p)
+Grazie per aver trovato il tempo per modellarmi! Sei hai l'opportunità, per favore fai un amico per me! (s)
+Grazie per aver trovato il tempo per modellarmi! Se avete l'opportunità, per favore fate un amico per me! (p)
+Non vedevo l'ora di far parte della tua collezione! Quale dei miei amici pensi che voglia farne parte? (s)
+Non vediamo l'ora di far parte della vostra collezione! Quale dei nostri amici pensate che voglia farne parte? (p)
+Wow! Bel lavoro! Mi sento a casa! Puoi farmi un amico, per favore? (s)
+Wow! Bel lavoro! Mi sento a casa! Potete farmi un amico, per favore? (p)
+Grande! Mi piace il modo in cui l'hai fatto! (Mi piaccio molto!) Non dovresti fermarti, sei così talentuoso! (s)
+Grande! Mi piace il modo in cui l'hai fatto! (Mi piaccio molto!) Non dovreste fermarvi, siete così talentuosi! (p)
+Wow! E' la migliore versione di me! Continua! (s)
+Wow! E' la migliore versione di me! Continuate! (p)
+Figo! Puoi farmi un amico a tua scelta (s)
+Figo! Potete farmi un amico a vostra scelta? (p)
+Penso che potrei essere spedito ad una mostra. Avrei il primo premio!
+Abbiamo fatto un bel lavoro! Rilassiamoci, mangiamo e poi continuiamo
+Immagina, c'erano solo pezzi di argilla e adesso sono quasi reale. (s)
+Immaginate, c'erano solo pezzi di argilla e adesso sono quasi reale. (p)
+Non è stato così difficile! Se davvero vuoi qualcosa, puoi facilmente farla! (s)
+Non è stato così difficile! Se davvero volete qualcosa, potete facilmente farla! (p)
+Grazie per avermi modellato! Facciamo una foto con me e te ed inviala a tutti i tuoi amici! (s)
+Grazie per avermi modellato! Faccimao una foto io e voi ed inviatela a tutti i vostri amici! (p)
+Dammi il 5 e fammi diventare tuo amico! (s)
+Datemi il 5 e fatemi diventare vostro amico! (p)
+Fai una foto ricordo di me! (s)
+Fate una foto ricordo di me! (p)
+Fai una foto di me ed inviala a tutti i tuoi cari! (s)
+Fate una foto di me ed inviatela a tutti i vostri cari! (p)
+Fai una foto del mio lato migliore ed inviala ai tuoi amici! (s)
+Fate una foto del mio lato migliore ed inviatela ai vostri amici! (p)
+Fai una foto di me e condividila! (s)
+Fate una foto di me e condividetela! (p)
+Premi sulla telecamera e fammi una foto! (s)
+Premete sulla telecamera e fatemi una foto! (p)
+Premi sulla telecamera e fai una foto al tuo lavoro! (s)
+Premete sulla telecamera e fate una foto al vostro lavoro! (p)
+Premi sulla telecamera, fai una foto di me e condividila! (s)
+Premete sulla telecamera, fate una foto di me e condividetela! (p)
+Sei così forte! Facciamo un'altra creatura! (s)
+Siete così forti! Facciamo un'altra creatura! (p)
+Sei così creativo! Facciamo un amico per lui! (sm)
+Siete così creativi! Facciamo un amico per lui! (pm)
+Sei così creativa! Facciamo un amico per lui! (sf)
+Siete così creative! Facciamo un amico per lui (pf)
+Wow! Che carino! Puoi farne un altro? (sm)
+Wow! Che carini! Potete farne altri? (pm)
+Wow! Che carina! Puoi farne un'altra? (sf)
+Wow! Che carine! Potete farne delle altre? (pf)
+Che cosa carina! Sono sicuro che ne vuoi fare un altro! (sm)
+Che cosa carina! Sono sicuro che ne vorrete fare degli altri! (pm)
+Che cosa carina! Sono sicura che ne vorrai fare un'altra! (sf)
+Che cosa carina! Siamo sicure che ne vorrete fare delle altre! (pf)
+Dammi il 5 e diventiamo amici! (sm)
+Datemi il 5 e diventiamo amici! (pm)
+Datemi il 5 e diventiamo amiche (pf)
+Puoi farlo! Premi il pulsante triangolare! (s)
+Potete farlo! Premete il pulsante triangolare (p)
+Devi essere orgoglioso di te! Continua! (sm)
+Dovete essere orgogliosi di voi stessi! Continuate! (pm)
+Devi essere orgogliosa di te! Continua! (sf)
+Dovete essere orgogliose di voi stesse! Continuate! (pf)
+Lavoro fantastico!
+Wow! Che bello! Per favore continua! (s)
+Wow! Che bello! Per favore continuate! (p)
+Bel lavoro!
+Fantastico! (sm)
+Fantastici! (pm)
+Fantastica! (sf)
+Fantastiche! (pf)
+Uccelli
+Dinosauri
+Animali
+Insetti
+Mostri
+Animali domestici
+Sott'acqua
+Oceano
+Anfibi
+Halloween
+Natale
+Draghi
+Trasporti
+Famiglia
+Persone
+Fagiano
+Colomba
+Tucano
+Pinguino
+Pappagallo Ara
+Pavone
+Tirannosauro
+Triceratopo
+Stegosauro
+Pterodattilo
+Brachiosauro
+Pachicefalosauro
+Cavallo
+Cagnolino
+Coniglio
+Maialino
+Mucca
+Pecora
+Lumaca
+Mantide
+Libellula
+Ragno
+Bruco
+Coccinella
+Scorpione
+Trio
+Burger
+Muzon
+Bigfoot
+Vulcano
+Terry
+Ciclope
+Criceto
+Ciambella
+Pi
+Bigwig
+Tacchino
+Gallo
+Anatra
+Pollo
+Oca
+Pollo
+Martin pescatore
+Colibrì
+Pappagallo Lory
+Condor
+Corvo
+Kiwi
+Rondine
+Upupa
+Piccione
+Passero
+Cicogna
+Fagiano
+Pellicano
+Balia della Nuova Zelanda
+Gufo
+Aquila
+Nettarinia
+Picchio
+Pappagallo
+Gallo
+Allosauro
+Terizinosauro
+Anchilosauro
+Parasaurolofo
+Lagosuco
+Demetrodonte
+Scimmia
+Elefante
+Leone
+Zebra
+Rinoceronte
+Gnu
+Giraffa
+Ippopotamo
+Formichiere
+Tigre
+Suricato
+Canguro
+Riccio
+Orso
+Cervo
+Volpe
+Lupo
+Porco
+Capibara
+Ornitorinco
+Koala
+Echidna
+Procione
+gerboa
+capra
+Bruco
+Mosca
+Farfalla
+Falena
+Cavalletta
+Bombo
+Bruco
+Scarabeo
+Isopoda
+Scorpione
+Mosca
+Scarafaggio
+Scolopendra
+Gatto
+Criceto
+Ratto
+Cincillà
+Micio
+Topo
+Cane
+Bulldog
+Pesce pagliaccio
+Raggio
+Cavalluccio marino
+anguilla
+Polpo
+Squalo
+Pescatore
+Pesce angelo
+Pesce leone rosso
+Pesce palla
+Alga
+Corallo giallo
+Corallo rosso
+Alga
+Rospo
+Coccodrillo
+Camaleonte
+Lucertola
+Tartaruga marina
+Pitone
+Rana
+Salamandra
+Tartaruga
+Iguana
+Serpente
+Coccodrillo
+Frankie
+Mummia
+Zucche
+Scheletro
+Fantasma
+Verme
+Zombie
+Diavolo
+Boscaiolo
+Strega
+Angelo
+Albero di Natale (un abete)
+Calzino
+Pupazzo di neve
+Drago
+Drago giallo
+Drago verde
+Drago cinese
+Drago viola
+Drago rosso
+Auto Dragster
+Auto d'epoca
+Auto classica
+Formula1 Auto
+Autobus
+Trattore
+Rullo compressore
+Carro armato
+Carro armato WW2
+Barca
+Elicottero
+Motocicletta
+Bicicletta
+Monstercar
+Auto
+un fianco
+uno stivale
+un capello
+un occhio
+un bulbo oculare
+una cresta
+un dente
+un polso
+una chiave
+un artiglio
+un ginocchio
+un anello
+uno zoccolo
+un osso
+un'ala
+un pugno
+un palmo
+un'unghia
+un naso
+un fuoco
+un collare per cane
+un dito
+un dito del piede
+una piuma
+una giacca da completo
+una pinna
+un abito
+un impermeabile
+una spalla
+una cintura
+una macchia
+un corno
+una museruola
+uno stivale alto
+una felpa
+un pullover
+uno scheletro
+una giuntura
+un corpo
+una scarpa
+uno schema
+un baffo
+un orecchio
+una lanterna
+un accappatoio
+una coda
+un tronco
+una parte
+un ciuffo
+una sciarpa
+una lingua
+una zanna
+una benda
+un sopracciglio
+una pancia
+un garrese
+una nuca
+una pupilla
+una zanna
+un becco
+un conto
+una lancia
+una parte del corpo
+un viso
+una fronte
+un cervello
+una bevanda
+una cuffia
+un asse
+un carapace
+una conchiglia
+un mento
+una vertebra
+un avambraccio
+un segmento
+una sezione
+un torso
+una cresta
+una spina
+una mandibola
+un cranio
+una cerniera
+una spina
+uno scudo
+un'antenna
+un tentacolo
+un profilo
+un sandalo
+una pantofola
+una cintura
+uno zoccolo
+un pungiglione
+un pompon
+un qualcosa
+uno scherzo
+un pezzo
+una base per gli occhi
+una spada
+un bacino
+una costola
+una palpebra
+un gomito
+una cravatta
+un medaglione
+un piumaggio
+una visiera
+un casco
+un copricapo
+una ruota
+un disco
+un cappellino
+un paraurti
+una finestra
+un parabrezza
+un lunotto
+un radiatore
+una farfalla
+una camicetta
+una barba
+una testa
+una cresta
+un labbro
+un cerotto
+un ago
+una spina dorsale
+un vitello
+un cappuccio
+un pennello da pittore
+un artiglio
+una parte superiore
+della lava
+una lampada
+una zampa
+una pinna
+un'armatura
+un cerotto
+un gilet
+una scopa
+una museruola
+una gamba
+una narice
+una membrana
+un foglio
+una fascia
+una striscia
+una ventosa
+un'acconciatura
+un'acconciatura
+una fibbia
+una conchiglia
+una ciglia
+una camicia
+un braccio
+una mano
+uno zigomo
+una schiena
+un piede
+una zucca
+una maglietta
+una bilancia
+un capello
+un collo
+un cappello
+una voce
+una guancia
+una caviglia
+una gonna
+una lampadina
+una borsa
+una base
+una setola
+una spazzola
+una decorazione
+uno scarabocchio
+una sagoma
+una cosa
+una copertina
+un fondo
+una torta piatta
+una cabina
+uno pneumatico
+un pettine
+una lana
+una bocca
+una mammella
+il fianco
+lo stivale
+il capello
+l'occhio
+il bulbo oculare
+la cresta
+il dente
+il polso
+la chiave
+l'artiglio
+il ginocchio
+l'anello
+lo zoccolo
+l'osso
+l'ala
+il pugno
+il palmo
+l'unghia
+il naso
+il fuoco
+il collare per cane
+il dito
+il dito del piede
+la piuma
+la giacca da completo
+la pinna
+l'abito
+l'impermeabile
+la spalla
+la cintura
+la macchia
+il corno
+la museruola
+lo stivale alto
+la felpa
+il pullover
+lo scheletro
+la giuntura
+il corpo
+la scarpa
+lo schema
+il baffo
+l'orecchio
+la lanterna
+l'accappatoio
+la coda
+il tronco
+la parte
+il ciuffo
+la sciarpa
+la lingua
+la zanna
+la benda
+il sopracciglio
+la pancia
+il garrese
+la nuca
+la pupilla
+la zanna
+il becco
+il conto
+la lancia
+la parte del corpo
+il viso
+la fronte
+il cervello
+la bevanda
+la cuffia
+l'asse
+il carapace
+la conchiglia
+il mento
+la vertebra
+l'avambraccio
+il segmento
+la sezione
+il torso
+la cresta
+la spina
+la mandibola
+il cranio
+la cerniera
+la spina
+lo scudo
+l'antenna
+il tentacolo
+il profilo
+il sandalo
+la pantofola
+la cintura
+lo zoccolo
+il pungiglione
+il pompon
+il qualcosa (it doesn't exist)
+lo scherzo
+il pezzo
+la base per gli occhi
+la spada
+il bacino
+la costola
+la palpebra
+il gomito
+la cravatta
+il medaglione
+il piumaggio
+la visiera
+il casco
+il copricapo
+la ruota
+il disco
+il cappellino
+il paraurti
+la finestra
+il parabrezza
+il lunotto
+il radiatore
+la farfalla
+la camicetta
+la barba
+la testa
+la cresta
+il labbro
+il cerotto
+l'ago
+la spina dorsale
+il vitello
+il cappuccio
+il pennello da pittore
+l'artiglio
+la parte superiore
+la lava
+la lampada
+la zampa
+la pinna
+l'armatura
+il cerotto
+il gilet
+la scopa
+la museruola
+la gamba
+la narice
+la membrana
+il foglio
+la fascia
+la striscia
+la ventosa
+l'acconciatura
+l'acconciatura
+la fibbia
+la conchiglia
+la ciglia
+la camicia
+il braccio
+la mano
+lo zigomo
+la schiena
+il piede
+la zucca
+la maglietta
+la bilancia
+il capello
+il collo
+il cappello
+la voce
+la guancia
+la caviglia
+la gonna
+la lampadina
+la borsa
+la base
+la setola
+la spazzola
+la decorazione
+lo scarabocchio
+la sagoma
+la cosa
+la copertina
+il fondo
+la torta piatta
+la cabina
+lo pneumatico
+il pettine
+la lana
+la bocca
+la mammella
+i fianchi
+gli stivali
+i capelli
+gli occhi
+i bulbi oculari
+le creste
+i denti
+i polsi
+le chiavi
+gli artigli
+le ginocchia
+gli anelli
+gli zoccoli
+le ossa
+le ali
+i pugni
+i palmi
+le unghie
+i nasi
+i fuochi
+i collari per i cani
+le dita
+le dita del piede
+le piume
+le giacche da completo
+le pinne
+gli abiti
+gli impermeabili
+le spalle
+le cinture
+le macchie
+le corna
+le museruole
+gli stivali alti
+le felpe
+i pullover
+gli scheletri
+le giunture
+i corpi
+le scarpe
+gli schemi
+i baffi
+le orecchie
+le lanterne
+gli accappatoi
+le code
+i tronchi
+le parti
+i ciuffi
+le sciarpe
+le lingue
+le zanne
+le bende
+le sopracciglia
+le pance
+i garresi
+le nuche
+le pupille
+le zanne
+i becchi
+i conti
+le lance
+le parti del corpo
+i visi
+le fronti
+i cervelli
+le bevande
+le cuffie
+gli assi
+i carapaci
+le conchiglie
+i menti
+le vertebre
+gli abambracci
+i segmenti
+le sezioni
+i torsi
+le creste
+le spine
+le mandibole
+i crani
+le cerniere
+le spine
+gli scudi
+le antenne
+i tentacoli
+i profili
+i sandali
+le pantofole
+le cinture
+gli zoccoli
+i pungiglioni
+i pompon
+qualcosa
+gli scherzi
+i pezzi
+le basi degli occhi
+le spade
+i bacini
+le costole
+le palpebre
+i gomiti
+le cravatte
+i medaglioni
+i piumaggi
+le visiere
+i caschi
+i copricapi
+le ruote
+i dischi
+i cappellini
+i paraurti
+le finestre
+i parabrezza
+i lunotti
+i radiatori
+le farfalle
+le camicette
+le barbe
+le teste
+le creste
+le labbra
+i cerotti
+gli aghi
+le spine dorsali
+i vitelli
+i cappucci
+i pennelli da pittori
+gli artigli
+le parti superiori
+le lave
+le lampade
+le zampe
+le pinne
+le armature
+i cerotti
+i gilet
+le scope
+le museruole
+le gambe
+le narici
+le membrane
+i fogli
+le fasce
+le strisce
+le ventose
+le acconciature
+le acconciature
+le fibbie
+le conchiglie
+le ciglia
+le camicie
+le braccia
+le mani
+gli zigomi
+le schiene
+i piedi
+le zucche
+le magliette
+le bilance
+i capelli
+i colli
+i cappelli
+le voci
+le guance
+le caviglie
+le gonne
+le lampadine
+le borse
+le basi
+le setole
+le spazzole
+le decorazioni
+gli scarabocchi
+le sagome
+le cose
+le copertine
+i fondi
+le torte piatte
+le cabine
+i pneumatici
+i pettini
+le lane
+le bocche
+le mammelle
+fianchi
+stivali
+capelli
+occhi
+bulbi oculari
+creste
+denti
+polsi
+chiavi
+artigli
+ginocchia
+anelli
+zoccoli
+ossa
+ali
+pugni
+palmi
+unghie
+nasi
+fuochi
+collari per i cani
+dita
+dita del piede
+piume
+giacche da completo
+pinne
+abiti
+impermeabili
+spalle
+cinture
+macchie
+corna
+museruole
+stivali alti
+felpe
+pullover
+scheletri
+giunture
+corpi
+scarpe
+schemi
+baffi
+orecchie
+lanterne
+accappatoi
+code
+tronchi
+parti
+ciuffi
+sciarpe
+lingue
+zanne
+bende
+sopracciglia
+pance
+garresi
+nuche
+pupille
+zanne
+becchi
+conti
+lance
+parti del corpo
+visi
+fronti
+cervelli
+bevande
+cuffie
+assi
+carapaci
+conchiglie
+menti
+vertebre
+abambracci
+segmenti
+sezioni
+torsi
+creste
+spine
+mandibole
+crani
+cerniere
+spine
+scudi
+antenne
+tentacoli
+profili
+sandali
+pantofole
+cinture
+zoccoli
+pungiglioni
+pompon
+scherzi
+pezzi
+basi degli occhi
+spade
+bacini
+costole
+palpebre
+gomiti
+cravatte
+medaglioni
+piumaggi
+visiere
+caschi
+copricapi
+ruote
+dischi
+cappellini
+paraurti
+finestre
+parabrezza
+lunotti
+radiatori
+farfalle
+camicette
+barbe
+teste
+creste
+labbra
+cerotti
+aghi
+spine dorsali
+vitelli
+cappucci
+pennelli da pittori
+artigli
+parti superiori
+lave
+lampade
+zampe
+pinne
+armature
+cerotti
+gilet
+scope
+museruole
+gambe
+narici
+membrane
+fogli
+fasce
+strisce
+ventose
+acconciature
+acconciature
+fibbie
+conchiglie
+ciglia
+camicie
+braccia
+mani
+zigomi
+schiene
+piedi
+zucche
+magliette
+bilance
+capelli
+colli
+cappelli
+voci
+guance
+caviglie
+gonne
+lampadine
+borse
+basi
+setole
+spazzole
+decorazioni
+scarabocchi
+sagome
+cose
+copertine
+fondi
+torte piatte
+cabine
+pneumatici
+pettini
+lane
+bocche
+mammelle
+avvolgere
+girare
+piegare
+tagliare
+dividere
+fare
+appiattire
+arrotolare
+forare
+appuntare
+premere
+punzecchiare
+grattare
+premere
+ripiegare
+girare
+connettere
+mettere
+rendere piatto
+incollare
+attaccare
+con un coltello
+con la tua mano
+con le tue mani
+con il tuo dito
+con le tue dita
+con uno stuzzicadenti
+con una matita
+con un fiammifero
+con un evidenziatore
+con un pezzo di cartone
+con un cutter
+su
+giù
+fuori
+attraverso
+piatto
+sopra
+rotondo
+insieme
+un taglio
+in un cono
+in coni
+a salsiccia
+a salsicce
+Un buco più profondo
+Dei buchi più profondi
+un buco
+buchi
+un pancake
+pancake
+in una carota
+in carote
+un fuso
+in un cilindro
+in cilindri
+una scanalatura
+scanalature
+in un semicerchio
+in un cerchio
+due volte
+in una gocciolina
+in goccioline
+piatti
+un arco
+esso
+lei
+loro
+in esso
+in lei
+in loro
+da esso
+da lei
+da loro
+su di esso
+su di lei
+su di esso
+su di loro
+e
+insieme
+poi
+avvolgi (s)
+avvolgete (p)
+gira (s)
+girate (p)
+piega (s)
+piegate (p)
+taglia (s)
+tagliate (p)
+dividi (s)
+dividete (p)
+fai (s)
+fate (sp)
+appiattisci (s)
+appiattite (p)
+arrotola (s)
+arrotolate (p)
+fora (s)
+forate (p)
+appunta (s)
+appuntate (p)
+premi (s)
+premete (p)
+punzecchia (s)
+punzecchiate (p)
+gratta (s)
+grattate (p)
+premi (s)
+premete (p)
+ripiega (s)
+ripiegate (p)
+gira (s)
+girate (p)
+connetti (s)
+connettete (p)
+metti (s)
+mettete (p)
+rendi piatto (s)
+rendete piatto (p)
+incolla (s)
+incollate (p)
+attacca (s)
+attaccate (p)
+Non dimenticarti di sorridere (mentre lo fai)! (s)
+Non dimenticatevi di sorridere (mentre lo fate)! (p)
+Comincia! (s)
+Cominciate! (p)
+nella tua collezione. Divertiamoci insieme! (s)
+nella vostra collezione. Divertiamoci insieme! (p)
+Sarà il tuo piccolo capolavoro!
+Sono sicuro che creerai un pezzo d'arte!
+È giunto il momento di fare il modello!
+Sarà divertente!
+Segui queste istruzioni passo passo. Ovviamente, puoi aggiungere qualsiasi cosa ti piaccia così creerai qualcosa di speciale. (s)
+Seguite queste istruzioni passo  passo. Ovviamente potrete aggiungere qualsiasi cosa vi piaccia così creerete qualcosa di speciale. (p)
+del mondo. Credo che farai del tuo meglio! (s)
+del mondo. Credo che farete del vostro meglio! (p)
+Diciotto colori di argilla
+diciassette colori di argilla
+sedici colori di argilla
+quindici colori di argilla
+quattordici colori di argilla
+tredici colori di argilla
+dodici colori di argilla
+undici colori di argilla
+dieci colori di argilla
+nove colori di argilla
+otto colori di argilla
+sette colori di argilla
+sei colori di argilla
+cinque colori di argilla
+quattro colori di argilla
+tre colori di argilla
+due colori di argilla
+un colore di argilla
+rosa
+rosa
+rosso
+arancione
+marrone chiaro
+giallo
+giallo chiaro
+verde chiaro
+verde
+verde scuro
+turchese
+blu
+indaco
+viola
+marrone
+nero
+grigio
+bianco
+argilla rosa
+argilla cremisi
+argilla ocra
+argilla blu
+argilla rossa
+argilla gialla
+argilla limone
+argilla lime
+argilla bianca
+argilla grigia
+argilla verde
+argilla verde scuro
+argilla marrone
+argilla arancione
+argilla indaco
+argilla turchese
+argilla viola
+argilla nera
+uno
+due
+tre
+quattro
+cinque
+sei
+sette
+otto
+nove
+dieci
+undici
+dodici
+tredici
+quattordici
+quindici
+sedici
+diciassette
+diciotto
+diciannove
+venti
+venticinque
+trenta
+trentacinque
+quaranta
+quarantacinque
+cinquanta
+cinquantacinque
+piccolo (sm)
+piccoli (pm)
+piccola (sf)
+piccole (pf)
+medio (sm)
+medi (pm)
+media (sf)
+medie (pf)
+grande (s)
+grandi (p)
+palla
+palle
+è fatto (sm)
+è fatta (sf)
+sono fatti (pm)
+sono fatte (pf)
+è tutto fatto (sm)
+è tutta fatta (sf)
+è grande! Facciamo un'altra figura!
+nella tua collezione! Che ne dici di fare la prossima figura? (s)
+nella vostra collezione! Che ne dite di fare la prossima figura? (p)
+Immagino che tu voglia fare un'altra figura! (s)
+Immagino che vogliate fare un'altra figura! (p)
+è una vera meraviglia! Non dovresti fermarti! (s)
+è una vera meraviglia! Non dovreste fermarvi! (p)
+farà sorridere tutti
